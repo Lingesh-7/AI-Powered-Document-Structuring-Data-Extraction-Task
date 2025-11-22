@@ -1,4 +1,4 @@
-# PDF to Excel Data Extractor
+# AI-Powered Document Structuring & Data Extraction Task
 
 This project is an **AI-powered application** that extracts **structured data** from unstructured PDF documents and exports it to Excel.
 It uses **LangChain**, **Google Gemini**, and **recursive text chunking** to identify **key-value pairs** along with **contextual comments**.
